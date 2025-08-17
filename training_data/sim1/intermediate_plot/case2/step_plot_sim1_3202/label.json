@@ -1,0 +1,34 @@
+{
+  "source_txt": "/Users/Jer_ry/Desktop/scripts/data/sim1/intermediate/case2/sim1_3202.txt",
+  "answer_idx": 0,
+  "answer_letter": "A",
+  "gold_triplet_disk": [
+    [
+      10.0,
+      5.0
+    ],
+    [
+      1.0,
+      10.0
+    ],
+    [
+      4.0,
+      8.0
+    ]
+  ],
+  "prev_triplet_disk": [
+    [
+      15.0,
+      12.0
+    ],
+    [
+      6.0,
+      15.0
+    ],
+    [
+      10.0,
+      14.0
+    ]
+  ],
+  "is_logic": false
+}

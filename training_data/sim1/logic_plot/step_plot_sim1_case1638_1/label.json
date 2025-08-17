@@ -1,0 +1,39 @@
+{
+  "source_txt": "/Users/Jer_ry/Desktop/scripts/data/sim1/logic/sim1_case1638_1.txt",
+  "answer_idx": 0,
+  "answer_letter": "A",
+  "gold_triplet_disk": [
+    [
+      24.0,
+      13.0
+    ],
+    [
+      5.0,
+      24.0
+    ],
+    [
+      18.0,
+      17.0
+    ]
+  ],
+  "prev_triplet_disk": [
+    [
+      24.0,
+      13.0
+    ],
+    [
+      5.0,
+      24.0
+    ],
+    [
+      17.0,
+      17.0
+    ]
+  ],
+  "is_logic": true,
+  "digits_last_step": [
+    "9",
+    "8",
+    "7"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "source_txt": "/Users/Jer_ry/Desktop/scripts/data/sim1/rulemap/sim1_1856.txt",
+  "answer_idx": 2,
+  "answer_letter": "C",
+  "gold_triplet_disk": [
+    [
+      22.0,
+      19.0
+    ],
+    [
+      22.0,
+      1.0
+    ],
+    [
+      17.0,
+      20.0
+    ]
+  ],
+  "prev_triplet_disk": [
+    [
+      21.0,
+      19.0
+    ],
+    [
+      22.0,
+      1.0
+    ],
+    [
+      16.0,
+      20.0
+    ]
+  ],
+  "is_logic": false
+}
