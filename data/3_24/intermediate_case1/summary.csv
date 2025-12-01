@@ -1,0 +1,11 @@
+maze,steps,maze_final_binary,maze_final_decimal,center_agent,flag_1,flag_2,case_type,move_dominant_agents,move_type
+1,10,000,0,A,0,0,1,"(0, 2)",intermediate_case1
+2,10,000,0,B,0,0,1,"(0, 1)",intermediate_case1
+3,10,000,0,C,0,0,1,"(0, 1)",intermediate_case1
+4,10,000,0,A,0,0,1,"(0, 2)",intermediate_case1
+5,10,000,0,B,0,0,1,"(0, 1)",intermediate_case1
+6,10,000,0,C,0,0,1,"(0, 2)",intermediate_case1
+7,10,100,4,A,0,0,1,"(1, 2)",intermediate_case1
+8,10,000,0,B,0,0,1,"(1, 2)",intermediate_case1
+9,10,000,0,C,0,0,1,"(0, 2)",intermediate_case1
+10,10,000,0,A,0,0,1,"(1, 2)",intermediate_case1

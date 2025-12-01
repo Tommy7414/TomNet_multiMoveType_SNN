@@ -1,0 +1,7 @@
+{
+  "trial_id": "5_24_case3_3",
+  "mode": "logic",
+  "n_agents": 5,
+  "relpath_txt": "logic/5_24_case3_3.txt",
+  "correct": "C"
+}

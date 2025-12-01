@@ -1,0 +1,2 @@
+trial_id,mode,relpath_txt,n_agents,correct,choiceA_xy,choiceA_cell,choiceB_xy,choiceB_cell,choiceC_xy,choiceC_cell,choiceD_xy,choiceD_cell
+3_24_10,rulemap,rulemap/3_24_10.txt,3,C,"[[12, 12], [4, 12], [12, 10]]","[275, 267, 227]","[[12, 17], [1, 12], [12, 5]]","[395, 264, 107]","[[12, 22], [1, 11], [17, 1]]","[515, 240, 16]","[[12, 21], [1, 12], [16, 1]]","[491, 264, 15]"

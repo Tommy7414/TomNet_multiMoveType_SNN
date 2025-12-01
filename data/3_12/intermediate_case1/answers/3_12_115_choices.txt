@@ -1,0 +1,20 @@
+Choice A:
+1 8
+8 6
+1 5
+
+Choice B:
+6 6
+10 4
+5 3
+
+Choice C:
+4 8
+9 5
+2 4
+
+Choice D:
+2 7
+7 6
+1 4
+

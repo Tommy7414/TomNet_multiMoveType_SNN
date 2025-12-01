@@ -1,0 +1,11 @@
+maze,steps,maze_final_binary,maze_final_decimal,center_agent,flag_1,flag_2,case_type,move_dominant_agents,move_type
+1,10,0000000000,0,S,0,0,,,rulemap
+2,10,0000000000,0,A,0,0,,,rulemap
+3,10,0000000000,0,B,0,0,,,rulemap
+4,10,0000000000,0,C,0,0,,,rulemap
+5,10,0000000000,0,D,0,0,,,rulemap
+6,10,0000000000,0,S,0,0,,,rulemap
+7,10,0000000000,0,A,0,0,,,rulemap
+8,10,0000000000,0,B,0,0,,,rulemap
+9,10,0000000000,0,C,0,0,,,rulemap
+10,10,0000000000,0,D,0,0,,,rulemap

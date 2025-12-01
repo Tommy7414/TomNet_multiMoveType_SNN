@@ -1,0 +1,2 @@
+trial_id,mode,relpath_txt,n_agents,correct,choiceA_xy,choiceA_cell,choiceB_xy,choiceB_cell,choiceC_xy,choiceC_cell,choiceD_xy,choiceD_cell
+3_24_case1_1,logic,logic/3_24_case1_1.txt,3,C,"[[12, 12], [2, 21], [6, 16]]","[275, 481, 365]","[[12, 17], [1, 21], [1, 16]]","[395, 480, 360]","[[12, 22], [1, 21], [1, 16]]","[515, 480, 360]","[[12, 21], [1, 21], [1, 16]]","[491, 480, 360]"
